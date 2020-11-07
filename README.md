@@ -18,6 +18,7 @@ Main Programming Language ：C++
 | [26 删除排序数组中的重复项.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/26%20删除排序数组中的重复项.md) |
 | [27 移除元素.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/27%20移除元素.md) |
 | [28 实现strStr().md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/28%20实现strStr().md) |
+| [35 搜索插入位置.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/35%20搜索插入位置.md) |
 |                                                              |
 
 
