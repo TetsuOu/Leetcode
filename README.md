@@ -19,11 +19,18 @@ Main Programming Language ：C++
 | [27 移除元素.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/27%20移除元素.md) |
 | [28 实现strStr().md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/28%20实现strStr().md) |
 | [35 搜索插入位置.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/35%20搜索插入位置.md) |
+| [53 最大子序和.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/53%20最大子序和.md) |
+|                                                              |
+|                                                              |
 |                                                              |
 
 
 ## Medium
 
+| #                                                            |
+| :----------------------------------------------------------- |
+| [2 两数相加](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/2%20两数相加.md) |
+|                                                              |
 
 
 ## Hard
