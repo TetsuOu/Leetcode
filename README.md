@@ -8,7 +8,7 @@ Main Programming Language ：C++
 
 | #                                                            |
 | :----------------------------------------------------------- |
-| [1 两数之和](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/1%20两数之和.md) |
+| [1 两数之和.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/1%20两数之和.md) |
 | [7 整数反转.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/7%20整数反转.md) |
 | [9 回文数.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/9%20回文数.md) |
 | [13 罗马数字转整数.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/13%20罗马数字转整数.md) |
@@ -20,6 +20,10 @@ Main Programming Language ：C++
 | [28 实现strStr().md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/28%20实现strStr().md) |
 | [35 搜索插入位置.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/35%20搜索插入位置.md) |
 | [53 最大子序和.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/53%20最大子序和.md) |
+| [58 最后一个单词的长度.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/58%20最后一个单词的长度.md) |
+| [66 加一.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/66%20加一.md) |
+| [67 二进制求和.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/67%20二进制求和.md) |
+| [69 x的平方根.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/69%20x的平方根.md) |
 |                                                              |
 |                                                              |
 |                                                              |
@@ -29,7 +33,9 @@ Main Programming Language ：C++
 
 | #                                                            |
 | :----------------------------------------------------------- |
-| [2 两数相加](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/2%20两数相加.md) |
+| [2 两数相加.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/2%20两数相加.md) |
+| [50 Pow(x, n).md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/50%20Pow(x%2C%20n).md) |
+|                                                              |
 |                                                              |
 
 
