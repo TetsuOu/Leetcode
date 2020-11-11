@@ -24,8 +24,8 @@ Main Programming Language ：C++
 | [66 加一.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/66%20加一.md) |
 | [67 二进制求和.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/67%20二进制求和.md) |
 | [69 x的平方根.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/69%20x的平方根.md) |
-|                                                              |
-|                                                              |
+| [70 爬楼梯.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/70%20爬楼梯.md) |
+| [83 删除链表中的重复元素.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/83%20删除链表中的重复元素.md) |
 |                                                              |
 
 
