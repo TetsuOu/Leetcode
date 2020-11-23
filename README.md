@@ -4,6 +4,8 @@
 
 Main Programming Language ：C++
 
+对应的gitbook:point_right:https://wangzhebufangqi.github.io/Leetcode
+
 ## Easy
 
 | #                                                            |
@@ -46,7 +48,10 @@ Main Programming Language ：C++
 | [3 无重复字符的最长子串.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/3%20无重复字符的最长子串.md) |
 | [5 最长回文子串.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/5%20最长回文子串.md) |
 | [50 Pow(x, n).md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/50%20Pow(x%2C%20n).md) |
+| [316 去除重复字母.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My Solution/316 去除重复字母.md) |
 | [328 奇偶链表.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/328%20奇偶链表.md) |
+| [402 移掉K位数字.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My Solution/402 移掉K位数字.md) |
+| [406 根据身高重建队列.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My Solution/406 根据身高重建队列.md) |
 |                                                              |
 
 

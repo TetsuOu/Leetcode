@@ -1,0 +1,60 @@
+{
+	"title": "Summary",
+	"plugins" : [
+		"expandable-chapters",
+		"github-buttons",
+		"editlink",
+		"copy-code-button",
+		"page-footer-ex",
+		"anchor-navigation-ex",
+		"expandable-chapters-small",
+		"prism", 
+		"-highlight",
+		"-lunr", 
+		"-search", 
+		"search-pro",
+		"donate",
+		"splitter",
+		"disqus",
+		"baidu-tongji-with-multiple-channel"
+	],
+	"pluginsConfig": {
+		"editlink": {
+			"base": "https://github.com/wangzhebufangqi/Leetcode/blob/main",
+			"label": "Edit This Page"
+		},	
+		"github-buttons": {
+			"buttons": [{
+				"user": "wangzhebufangqi",
+				"repo": "Leetcode",
+				"type": "star",
+				"size": "small"
+			}]
+		},	
+		"page-footer-ex": {
+            "copyright": "By [wangzhebufangqi](https://github.com/wangzhebufangqi)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+            "markdown": true,
+            "update_label": "<i>updated</i>",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
+		},	
+		"prism": {
+			"css": ["prismjs/themes/prism-solarizedlight.css"],
+			"lang": {"flow": "typescript"}
+		},	
+		"donate": {
+			"wechat": "https://gitee.com/wangzhebufangqi/PictureBed/raw/master/20201122131942.png",
+			"alipay": "https://gitee.com/wangzhebufangqi/PictureBed/raw/master/20201122131820.png",
+			"title": "",
+			"button": "Donate",
+			"alipayText": "支付宝捐赠",
+			"wechatText": "微信捐赠"
+		},
+		"disqus": {
+            "shortName": "wangzhebufangqi"
+        },
+		"baidu-tongji-with-multiple-channel": {
+            "token": "73be72a36cee8ef8daa9843c7861cecc"
+        }
+	},
+	"ignores" : ["_book", "node_modules"]
+}	
