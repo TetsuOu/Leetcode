@@ -1,5 +1,10 @@
 {
 	"title": "Summary",
+	"links": {
+        "sidebar": {
+            "Home": "https://wangzhebufangqi.github.io"
+        }
+    },
 	"plugins" : [
 		"expandable-chapters",
 		"github-buttons",
