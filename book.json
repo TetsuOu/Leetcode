@@ -5,6 +5,7 @@
             "Home": "https://wangzhebufangqi.github.io"
         }
     },
+	"author":"wangzhebufangqi",
 	"plugins" : [
 		"expandable-chapters",
 		"github-buttons",
@@ -21,7 +22,9 @@
 		"donate",
 		"splitter",
 		"disqus",
-		"baidu-tongji-with-multiple-channel"
+		"baidu-tongji-with-multiple-channel",
+		"katex-ng",
+		"advanced-emoji"
 	],
 	"pluginsConfig": {
 		"editlink": {
