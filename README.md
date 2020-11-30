@@ -1,10 +1,8 @@
 # Leetcode
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/wangzhebufangqi/Leetcode/auto-generate-gitbook/main)![GitHub](https://img.shields.io/github/license/wangzhebufangqi/Leetcode)![Main Language](https://img.shields.io/badge/Main%20Language-C%2B%2B-brightgreen)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/wangzhebufangqi/Leetcode/auto-generate-gitbook/main) ![GitHub](https://img.shields.io/github/license/wangzhebufangqi/Leetcode) ![Main Language](https://img.shields.io/badge/Main%20Language-C%2B%2B-brightgreen)
 
 若您是通过PC端Chrome浏览器浏览github页面，推荐安装Chrome插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)以支持渲染latex公式。
-
-Main Programming Language ：C++
 
 对应的gitbook:point_right:https://wangzhebufangqi.github.io/Leetcode
 
