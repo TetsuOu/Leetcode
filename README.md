@@ -1,5 +1,7 @@
 # Leetcode
 
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/wangzhebufangqi/Leetcode/auto-generate-gitbook/main)![GitHub](https://img.shields.io/github/license/wangzhebufangqi/Leetcode)![Main Language](https://img.shields.io/badge/Main%20Language-C%2B%2B-brightgreen)
+
 若您是通过PC端Chrome浏览器浏览github页面，推荐安装Chrome插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)以支持渲染latex公式。
 
 Main Programming Language ：C++
@@ -21,8 +23,9 @@ Main Programming Language ：C++
 | [21 合并两个有序链表](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/21%20合并两个有序链表.md) |
 | [26 删除排序数组中的重复项](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/26%20删除排序数组中的重复项.md) |
 | [27 移除元素](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/27%20移除元素.md) |
-| [28 实现strStr()](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/28%20实现strStr().md) |
+| [28 实现strStr](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/28%20实现strStr.md) |
 | [35 搜索插入位置](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/35%20搜索插入位置.md) |
+| [38 外观数列.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My Solution/Easy/38 外观数列.md) |
 | [53 最大子序和](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/53%20最大子序和.md) |
 | [58 最后一个单词的长度](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/58%20最后一个单词的长度.md) |
 | [66 加一](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/66%20加一.md) |
@@ -40,6 +43,7 @@ Main Programming Language ：C++
 | [111 二叉树的最小深度](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/111%20二叉树的最小深度.md) |
 | [242 有效的字母异位词](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/242%20有效的字母异位词.md) |
 | [283 移动零](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/283%20移动零.md) |
+| [976 三角形的最大周长.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/976%20三角形的最大周长.md) |
 | [1030 距离顺序排列矩阵单元格](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/1030%20距离顺序排列矩阵单元格.md) |
 | [1122 数组的相对排序](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/1122%20数组的相对排序.md) |
 | [1370 上升下降字符串](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/1370%20上升下降字符串.md) |
@@ -52,13 +56,14 @@ Main Programming Language ：C++
 | [2 两数相加](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/2%20两数相加.md) |
 | [3 无重复字符的最长子串](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/3%20无重复字符的最长子串.md) |
 | [5 最长回文子串](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/5%20最长回文子串.md) |
-| [50 Pow(x, n)](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/50%20Pow(x%2C%20n).md) |
+| [50 Pow(x, n)](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/50%20Pow%20x%2C%20n%20.md) |
 | [222 完全二叉树的结点个数.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/222%20完全二叉树的结点个数.md) |
 | [316 去除重复字母](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/316%20去除重复字母.md) |
 | [328 奇偶链表](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/328%20奇偶链表.md) |
 | [402 移掉K位数字.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/402%20移掉K位数字.md) |
 | [406 根据身高重建队列](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/406%20根据身高重建队列.md) |
 | [452 用最少数量的箭引爆气球](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/452%20用最少数量的箭引爆气球.md) |
-
+| [454 四数相加 II.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/454%20四数相加%20II.md) |
+| [767 重构字符串.md](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/767%20重构字符串.md) |
 
 ## Hard
