@@ -39,6 +39,7 @@
 | [108 将有序数组转换为二叉搜索树](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/108%20将有序数组转换为二叉搜索树.md) |
 | [110 平衡二叉树](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/110%20平衡二叉树.md) |
 | [111 二叉树的最小深度](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/111%20二叉树的最小深度.md) |
+| 204 计数质数                                                 |
 | [242 有效的字母异位词](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/242%20有效的字母异位词.md) |
 | [283 移动零](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/283%20移动零.md) |
 | [976 三角形的最大周长](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/976%20三角形的最大周长.md) |
@@ -69,6 +70,6 @@
 | #                                                            |
 | ------------------------------------------------------------ |
 | [164 最大间距](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Hard/164%20最大间距.md) |
-|                                                              |
+| 321 拼接最大数                                               |
 |                                                              |
 
