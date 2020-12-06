@@ -39,6 +39,7 @@
 | [108 将有序数组转换为二叉搜索树](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/108%20将有序数组转换为二叉搜索树.md) |
 | [110 平衡二叉树](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/110%20平衡二叉树.md) |
 | [111 二叉树的最小深度](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/111%20二叉树的最小深度.md) |
+| 118 杨辉三角                                                 |
 | [204 计数质数](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/204%20计数质数.md) |
 | [242 有效的字母异位词](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/242%20有效的字母异位词.md) |
 | [283 移动零](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/283%20移动零.md) |
