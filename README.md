@@ -57,6 +57,7 @@
 | [5 最长回文子串](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/5%20最长回文子串.md) |
 | [34 在排序数组中查找元素的第一个和最后一个位置](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/34%20在排序数组中查找元素的第一个和最后一个位置.md) |
 | [50 Pow(x, n)](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/50%20Pow%20x%2C%20n%20.md) |
+| 62 不同路径                                                  |
 | [222 完全二叉树的结点个数](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/222%20完全二叉树的结点个数.md) |
 | [316 去除重复字母](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/316%20去除重复字母.md) |
 | [328 奇偶链表](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/328%20奇偶链表.md) |
