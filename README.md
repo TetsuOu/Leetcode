@@ -43,6 +43,7 @@
 | [204 计数质数](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/204%20计数质数.md) |
 | [242 有效的字母异位词](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/242%20有效的字母异位词.md) |
 | [283 移动零](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/283%20移动零.md) |
+| 860 柠檬水找零                                               |
 | [976 三角形的最大周长](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/976%20三角形的最大周长.md) |
 | [1030 距离顺序排列矩阵单元格](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/1030%20距离顺序排列矩阵单元格.md) |
 | [1122 数组的相对排序](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/1122%20数组的相对排序.md) |
