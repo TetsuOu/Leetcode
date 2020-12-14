@@ -41,6 +41,7 @@
 | [111 二叉树的最小深度](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/111%20二叉树的最小深度.md) |
 | [118 杨辉三角](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/118%20杨辉三角.md) |
 | [204 计数质数](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/204%20计数质数.md) |
+| 217 存在重复元素                                             |
 | [242 有效的字母异位词](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/242%20有效的字母异位词.md) |
 | [283 移动零](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/283%20移动零.md) |
 | [860 柠檬水找零](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Easy/860%20柠檬水找零.md) |
@@ -57,6 +58,7 @@
 | [3 无重复字符的最长子串](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/3%20无重复字符的最长子串.md) |
 | [5 最长回文子串](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/5%20最长回文子串.md) |
 | [34 在排序数组中查找元素的第一个和最后一个位置](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/34%20在排序数组中查找元素的第一个和最后一个位置.md) |
+| 49 字母异位词分组                                            |
 | [50 Pow(x, n)](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/50%20Pow%20x%2C%20n%20.md) |
 | [62 不同路径](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/62%20不同路径.md) |
 | [222 完全二叉树的结点个数](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/222%20完全二叉树的结点个数.md) |
