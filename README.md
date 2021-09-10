@@ -72,6 +72,7 @@
 | [659 分割数组为连续子序列](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/659%20分割数组为连续子序列.md) |
 | [767 重构字符串](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/767%20重构字符串.md) |
 | [1894 找到需要补充粉笔的学生编号](https://github.com/wangzhebufangqi/Leetcode/blob/main/My%20Solution/Medium/1894%20找到需要补充粉笔的学生编号.md) |
+|                                                              |
 
 ## Hard
 
