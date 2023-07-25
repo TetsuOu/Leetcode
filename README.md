@@ -4,7 +4,7 @@
 
 若您是通过PC端Chrome浏览器浏览github页面，推荐安装Chrome插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)以支持渲染latex公式。
 
-对应的gitbook:point_right:https://wangzhebufangqi.github.io/Leetcode
+对应的gitbook:point_right:https://tetsuou.github.io/Leetcode
 
 每日一题 + 随机写题
 
